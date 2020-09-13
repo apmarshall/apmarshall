@@ -8,11 +8,11 @@
   class Alex:
     def __init__(self, name, languages, editor, stacks, interests, hobbies)
       self.name = Alex + Floyd Marshall
-      self.languages = Python + JavaScript + PHP + [🌱'Learning'🌱: 'Haskell' + 'Lua']
+      self.languages = Python + JavaScript + PHP + [🌱'Learning'🌱: 'Haskell', 'Lua']
       self.editor = Emacs
-      self.stacks = Ansible + Nginx + WordPress + [🌱'Learning'🌱: 'Gatsby' + 'Terraform']
+      self.stacks = Ansible + MacOS + Linux[Ubuntu, Kali] + WordPress + [🌱'Learning'🌱: 'Gatsby', 'Terraform', 'Metasploit']
       self.interests = Cyber Security + Dev(Sec)Ops + Functional Programming + Test Driven Development
-      self.hobbies = Guitar + Audio Editing + Amateur Pig Farming
+      self.hobbies = Guitar + Audio Editing + Amateur Pig Farming + Drinking Tea
     
   from MyBrain import projects
    
