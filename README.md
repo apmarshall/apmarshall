@@ -24,19 +24,19 @@
     "current🔭": [
       {
         "name": "Cloister",
-        "base-stack": {"Munki", "nmap", "S3", "AWS Lamda", "openID"},
+        "base-stack": ["Munki", "nmap", "S3", "AWS Lamda", "openID"],
         "description": "Set of tools/services to deploy, manage, monitor, and protect a fleet of MacOS devices in a remote workforce"
       }  
     ],
     "future🤔": [
       {
         "name": "Soren Review",
-        "base-stack": {"Python", "Swift", "PostreSQL"},
+        "base-stack": ["Python", "Swift", "PostreSQL"],
         "description": "Speciality news reading mobile app focused on leading think-tanks/NGOs from around the world"
       },
       {
         "name": "Fayerweather",
-        "base-stack": {"PHP", "WordPress"},
+        "base-stack": ["PHP", "WordPress"],
         "description": "Hosted solution that automatically performs End-to-End testing on WordPress installations to solve the problem of keeping plugins up-to-date without breaking things"
       }
     ]
