@@ -1,8 +1,8 @@
 ## Hi there, I'm Alex 👋
 *I'm a self-trained software developer and IT Consultant focused on strategy, security, and automation.*
 
-![LinkedIn: Alex Floyd Marshall](https://www.linkedin.com/in/alexanderpfloydmarshall?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLMIMDJ5oSwC0vEEMxbqZJw%3D%3D) | 
-![Soren LLC](https://soren.tech)
+<a href="https://www.linkedin.com/in/alexanderpfloydmarshall/" target="_blank" title="LinkedIn"><img src="linkedin-png-transparent.jpg" alt="LinkedIn" height="30px" /></a> | 
+<a href="https://soren.tech" target="_blank" title="Soren LLC"><img src="Chain_link_icon.png" alt="Soren LLC" height="25px" /></a>
 
 ```python
   class Alex:
