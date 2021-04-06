@@ -6,13 +6,14 @@
 
 ```python
   class Alex:
-    def __init__(self, name, languages, editor, stacks, interests, hobbies)
+    def __init__(self, name, memberships, languages, editor, stacks, interests, hobbies)
       self.name = Alex + Floyd Marshall
-      self.languages = Python + JavaScript + PHP + [🌱'Learning'🌱: 'Haskell', 'Lua']
+      self.memberships = Cloud Native Security Foundation SIG-Security + Soren LLC
+      self.languages = Python + JavaScript + PHP + [🌱'Learning'🌱: 'Goalng', 'C']
       self.editor = Emacs
-      self.stacks = Ansible + MacOS + Linux[Ubuntu, Kali] + WordPress + [🌱'Learning'🌱: 'Gatsby', 'Terraform', 'Metasploit']
-      self.interests = Cyber Security + Dev(Sec)Ops + Functional Programming + Test Driven Development
-      self.hobbies = Guitar + Audio Editing + Amateur Pig Farming + Drinking Tea
+      self.stacks = Ansible + MacOS + Linux[Ubuntu, Kali] + Kubernetes + WordPress + [🌱'Learning'🌱: 'Terraform', 'Metasploit']
+      self.interests = Cybersecurity + Dev(Sec)Ops + Functional Programming + Test Driven Development
+      self.hobbies = Playing Guitar + Audio Editing + Amateur Pig Farming + Drinking Tea
     
   from MyBrain import projects
    
@@ -26,7 +27,17 @@
         "name": "Cloister",
         "base-stack": ["Munki", "nmap", "S3", "AWS Lamda", "openID"],
         "description": "Set of tools/services to deploy, manage, monitor, and protect a fleet of MacOS devices in a remote workforce"
-      }  
+      },
+      {
+        "name": "Secure GitHub",
+        "base-stack": ["Python", "GraphQL", "GitHub API"],
+        "description": "Python script that uses the GitHub API to configure settings for a repo in keeping with the CNCF Supply Chain Security White Paper recommendations for protecting first-party code repositories"
+      },
+      {
+        "name": "Software Factory Examples",
+        "base-stack": ["Docker", "Kubernetes", "in-toto"],
+        "description": "Code samples for configuring a software factory following the recommendations in the CNCF Supply Chain Security White Paper"
+      }
     ],
     "future🤔": [
       {
@@ -44,5 +55,5 @@
 ```
 
 ### Get in Touch:
-I'm happy to talk about ideas, projects, and other ways we might work together. Sincere networking requests only, if I think you're pitching or spamming me you'll be ghosted. 
+I'm happy to talk about ideas, projects, and other ways we might work together.
 [Email](mailto:apmarshall@soren.tech)
